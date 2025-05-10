@@ -14,10 +14,11 @@ Rysim2 Editor 2025
   <img src="https://img.shields.io/github/stars/MC-BA-bee/Rysim2-Editor.svg" />
   <img src="https://img.shields.io/github/forks/MC-BA-bee/Rysim2-Editor.svg" />
 </p>
+
 # 目录
 
-- [关于Rysim2 Editor](#关于Rysim2 Editor)
-- [Summary](#summary)
+- [Introduction 简介](#introduction-简介)
+- [Summary 概况](#summary-概况)
 - [Features](#features)
 - [Requirements](#requirements)
 	- [V4.5+](#after-v45)
@@ -32,26 +33,16 @@ Rysim2 Editor 2025
 - [Contact](#Contact)
 - [Authors and acknowledgment](#authors-and-acknowledgment)
 - [License](#License)
-## 关于Rysim2 Editor
-Want to make the class even more exciting? Come and try to draw the card!  
-We use about 6 month to creative it, now it is coming !  
+  
+## Introduction 简介
+我们为Rysim2准备了专门的写谱程序，但Rysim2 Editor只兼容Rysim2的谱面文件，旧版Rysim请使用内置的写谱工具
 
-## Summary
-You can use the program to get the StudentNumber.
+## Summary 概况
+使用Rysim2 Editor来编辑与完善谱面！
 
-![image](https://github.com/user-attachments/assets/9d4794b0-d195-4367-83ef-34f5910997e9)
-![image](https://github.com/user-attachments/assets/5ae6c24b-6c3e-4d91-82e3-371e7476c05a)
-![image](https://github.com/user-attachments/assets/bc0db68a-b30a-48c7-b2d2-2e4165b0dae6)
-![image](https://github.com/user-attachments/assets/79c27fb6-706a-4757-8a24-59880c2a2c0d)
-![image](https://github.com/user-attachments/assets/624cb68f-1bc7-48b0-960d-3f193d400463)
-![image](https://github.com/user-attachments/assets/95782f8e-08c2-433e-a365-f6923ebd2c59)
-![image](https://github.com/user-attachments/assets/cb15b3aa-a480-42d3-a27d-e028d27daf52)
-![image](https://github.com/user-attachments/assets/cd251788-e09b-4f5b-b662-a5ad51134c3b)
 
 ## Features
-Before v4.4.2 we only have py version.  
-After v4.5 we have 2 version (py & exe version).  
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/b1b3cb48-4f16-4442-af06-0bc1e15d150c)
+我们将在每个版本的发布页面提供Python源文件以及打包成exe的文件
 
 ## Requirements
 ### After v4.5:
@@ -65,8 +56,6 @@ We only have Python version.
 ***Please check if your computer has installed Python and Pygame and Pgzero libraries.***   
 If not, the program will not run on your computer.  
 **Press Win+R, open Run, enter 'pip install pygame' & 'pip install pgzero' to install pygame & pgzero on Python.**
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/6357142a-41a5-4c13-b8c0-6aa8eb9a03ef)
-![image](https://github.com/MC-BA-Bee/GSN-GenshinStudentNumbers/assets/130174773/d8b9e4f3-adb7-4c2c-948a-12123c6d31f0)
 
 ## Configuration
 Windows® 10 and above | 64 bit.
